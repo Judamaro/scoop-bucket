@@ -1,0 +1,22 @@
+{
+    "version": "0.2.0",
+    "architecture": {
+        "64bit": {
+            "url": "https://github.com/Judamaro/devtooltui-golang/releases/download/v0.2.0/devtooltui_0.2.0_windows_amd64.zip",
+            "bin": [
+                "devtooltui.exe"
+            ],
+            "hash": "921bd136e42dc9bb538ab6c3250cf584a89011da3a1aba790d331d8b6f9d0f6f"
+        },
+        "arm64": {
+            "url": "https://github.com/Judamaro/devtooltui-golang/releases/download/v0.2.0/devtooltui_0.2.0_windows_arm64.zip",
+            "bin": [
+                "devtooltui.exe"
+            ],
+            "hash": "91378e1e24a314b81c4b83d7c1a8429c642498b4b52bae8259d8fcee1d1d38cb"
+        }
+    },
+    "homepage": "https://github.com/Judamaro/devtooltui-golang",
+    "license": "MIT",
+    "description": "Developer utilities in the terminal as a TUI and a CLI"
+}
