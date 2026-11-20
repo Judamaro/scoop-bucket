@@ -1,19 +1,19 @@
 {
-    "version": "0.2.0",
+    "version": "1.0.0",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/Judamaro/devtooltui-golang/releases/download/v0.2.0/devtooltui_0.2.0_windows_amd64.zip",
+            "url": "https://github.com/Judamaro/devtooltui-golang/releases/download/v1.0.0/devtooltui_1.0.0_windows_amd64.zip",
             "bin": [
                 "devtooltui.exe"
             ],
-            "hash": "921bd136e42dc9bb538ab6c3250cf584a89011da3a1aba790d331d8b6f9d0f6f"
+            "hash": "b9452474464c107cc87de1fe1bdb3953d21c643b03b42a800a35d2348e5ff9e7"
         },
         "arm64": {
-            "url": "https://github.com/Judamaro/devtooltui-golang/releases/download/v0.2.0/devtooltui_0.2.0_windows_arm64.zip",
+            "url": "https://github.com/Judamaro/devtooltui-golang/releases/download/v1.0.0/devtooltui_1.0.0_windows_arm64.zip",
             "bin": [
                 "devtooltui.exe"
             ],
-            "hash": "91378e1e24a314b81c4b83d7c1a8429c642498b4b52bae8259d8fcee1d1d38cb"
+            "hash": "c510b0c0ac96c1a6ead0d9fea909c86117b4b7eba62174b6e358e764c36b0a52"
         }
     },
     "homepage": "https://github.com/Judamaro/devtooltui-golang",
